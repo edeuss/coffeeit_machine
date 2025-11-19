@@ -41,7 +41,7 @@ final class CoffeeSelectionProvider
   }
 }
 
-String _$coffeeSelectionHash() => r'7c20ad3c794481462ec281a7a2aca9518cb0fd13';
+String _$coffeeSelectionHash() => r'894b909fc199d459bc7aad3276564741b92fa939';
 
 abstract class _$CoffeeSelection extends $Notifier<CoffeeSelectionState> {
   CoffeeSelectionState build();
